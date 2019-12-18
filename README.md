@@ -4,14 +4,16 @@
 ## Outline
 Under the situations of big events, citywide crowd dynamics would manifest some different patterns from the normal routine. In this study, we propose a highly deployable system to extract the trend from momentary changes, and leverage multitask learning to predict crowd density and crowd flows simultaneously.
 
-<p align="center"><img src="figures/earthquake.png"></p>
-**Fig 1. Sudden change of human mobility in Tokyo before and after the Great East Japan Earthquake.**
+<p align="center"><img src="figures/earthquake.png" width="50%" height="50%"></p>
+__Fig 1. Sudden change of human mobility in Tokyo before and after the Great East Japan Earthquake__
 
-<p align="center"><img src="figures/problem.png"></p>
-**Fig 2. Crowd dynamics prediction.**
+
+<p align="center"><img src="figures/problem.png" width="50%" height="50%"></p>
+__Fig 2. Crowd dynamics prediction__
+
 
 <p align="center"><img src="figures/multitask_convlstm.png"></p>
-**Fig 3. Multitask ConvLSTM encoder-decoder for simultaneous multi-step prediction**
+__Fig 3. Multitask ConvLSTM encoder-decoder for simultaneous multi-step prediction__
 
 ## Directories
 ```
@@ -49,7 +51,7 @@ Here are the working environment and major dependencies we run the code:
 * Keras (>= 2.0.8)
 
 ## Citation
-If you find that anything in this repository is useful to your own work, e.g. our proposed model/baselines/preprocessing, please cite our paper :) [DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events](http://delivery.acm.org/10.1145/3340000/3330654/p2114-jiang.pdf?ip=150.82.219.15&id=3330654&acc=ACTIVE%20SERVICE&key=1B336DE9D4FBE3B9%2E1B336DE9D4FBE3B9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1576632401_e0bf0a5200ee661038befcc1d0b090bf)
+If you find that anything in this repository is useful to your own work, e.g. our proposed model/baselines/preprocessing, please cite our paper :) [DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events](https://www.researchgate.net/profile/Renhe_Jiang/publication/334714928_DeepUrbanEvent_A_System_for_Predicting_Citywide_Crowd_Dynamics_at_Big_Events/links/5d417167299bf1995b597f28/DeepUrbanEvent-A-System-for-Predicting-Citywide-Crowd-Dynamics-at-Big-Events.pdf)
 ```
 @inproceedings{jiang2019deepurbanevent,
   title={DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events},
