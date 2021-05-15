@@ -5,15 +5,15 @@
 Under the situations of big events, citywide crowd dynamics would manifest some different patterns from the normal routine. In this study, we propose a highly deployable system to extract the trend from momentary changes, and leverage multitask learning to predict crowd density and crowd flows simultaneously.
 
 <p align="center"><img src="figures/earthquake.png" width="50%" height="50%"></p>
-__Fig 1. Sudden change of human mobility in Tokyo before and after the Great East Japan Earthquake__
+<h1 align="center">Fig 1. Sudden change of human mobility in Tokyo before and after the Great East Japan Earthquake</h1>
 
 
 <p align="center"><img src="figures/problem.png" width="50%" height="50%"></p>
-__Fig 2. Crowd dynamics prediction__
+<h2 align="center">Fig 2. Crowd dynamics prediction</h2>
 
 
 <p align="center"><img src="figures/multitask_convlstm.png"></p>
-__Fig 3. Multitask ConvLSTM encoder-decoder for simultaneous multi-step prediction__
+<h3 align="center">Fig 3. Multitask ConvLSTM encoder-decoder for simultaneous multi-step prediction</h3>
 
 ## Directories
 ```
