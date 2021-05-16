@@ -51,7 +51,7 @@ Here are the working environment and major dependencies we run the code:
 * Keras (>= 2.0.8)
 
 ## Citation
-If you find that anything in this repository is useful to your own work, e.g. our proposed model/baselines/preprocessing, please cite our paper :) [DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events](https://www.researchgate.net/profile/Renhe_Jiang/publication/334714928_DeepUrbanEvent_A_System_for_Predicting_Citywide_Crowd_Dynamics_at_Big_Events/links/5d417167299bf1995b597f28/DeepUrbanEvent-A-System-for-Predicting-Citywide-Crowd-Dynamics-at-Big-Events.pdf)
+If you find anything in this repository useful to your research, please cite our paper :) We sincerely appreciate it. [DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events](https://www.researchgate.net/profile/Renhe_Jiang/publication/334714928_DeepUrbanEvent_A_System_for_Predicting_Citywide_Crowd_Dynamics_at_Big_Events/links/5d417167299bf1995b597f28/DeepUrbanEvent-A-System-for-Predicting-Citywide-Crowd-Dynamics-at-Big-Events.pdf)
 ```
 @inproceedings{jiang2019deepurbanevent,
   title={DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events},
